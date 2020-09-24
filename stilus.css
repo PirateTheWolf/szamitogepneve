@@ -48,5 +48,10 @@ h1,h3{
 
 .harom{
     padding-left: 80%;
-    font-style: italic;
+    font-style: italic; 
+}
+
+img{
+    width: 120px;
+    float: right;
 }
